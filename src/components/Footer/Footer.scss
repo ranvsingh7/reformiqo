@@ -1,0 +1,14 @@
+.Footer{
+    position: absolute;
+    bottom: 0;
+    left: 300px;
+    font-size: 15px;
+    color: #566A7F;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    span{
+        font-weight: 700;
+        margin-left: 5px;
+    }
+}
