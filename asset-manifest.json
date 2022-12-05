@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reformiqo/static/css/main.4260caac.css",
+    "main.js": "/reformiqo/static/js/main.b51b15c4.js",
+    "index.html": "/reformiqo/index.html",
+    "main.4260caac.css.map": "/reformiqo/static/css/main.4260caac.css.map",
+    "main.b51b15c4.js.map": "/reformiqo/static/js/main.b51b15c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4260caac.css",
+    "static/js/main.b51b15c4.js"
+  ]
+}
