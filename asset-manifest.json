@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reformiqo/static/css/main.32a1dfcf.css",
+    "main.css": "/reformiqo/static/css/main.effd8bb1.css",
     "main.js": "/reformiqo/static/js/main.abaf7148.js",
     "index.html": "/reformiqo/index.html",
-    "main.32a1dfcf.css.map": "/reformiqo/static/css/main.32a1dfcf.css.map",
+    "main.effd8bb1.css.map": "/reformiqo/static/css/main.effd8bb1.css.map",
     "main.abaf7148.js.map": "/reformiqo/static/js/main.abaf7148.js.map"
   },
   "entrypoints": [
-    "static/css/main.32a1dfcf.css",
+    "static/css/main.effd8bb1.css",
     "static/js/main.abaf7148.js"
   ]
 }
